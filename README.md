@@ -23,6 +23,7 @@ I am a second-year **Computer Science** student from Ho Chi Minh University of T
 ![Node.js](https://img.shields.io/badge/Node.js-12.18.3-green)
 ![Python](https://img.shields.io/badge/Python-3.8-blue)
 
+## Funny stats
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=ThaiNguyenGiaBao&show_icons=true" alt="GitHub stats" height="200" width="410">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaiNguyenGiaBao&layout=compact" alt="Top Langs" height="200" width="310">
