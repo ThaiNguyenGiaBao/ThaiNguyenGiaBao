@@ -10,8 +10,8 @@ Skills: HTML / CSS / JS / React
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaiNguyenGiaBao&layout=compact" alt="Top Langs" height="200">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThaiNguyenGiaBao&show_icons=true" alt="GitHub stats" height="200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaiNguyenGiaBao&layout=compact" alt="Top Langs" height="200" width="300">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThaiNguyenGiaBao&show_icons=true" alt="GitHub stats" height="200" width="400">
 </p>
 
 
