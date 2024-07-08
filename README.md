@@ -9,6 +9,11 @@ I am a second-year **Computer Science** student from Ho Chi Minh University of T
   - Have a solid foundation in theoretical knowledge in Computer Science
   - Proficient in calculus (especially in integral) and physics
 - **Fun Fact**: I deeply appreciate drawing and enjoy delving into low-level programming.
+  
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
+![React](https://img.shields.io/badge/React-16.13.1-blue)
+![Node.js](https://img.shields.io/badge/Node.js-12.18.3-green)
+![Python](https://img.shields.io/badge/Python-3.8-blue)
 
 
 ## Goals
@@ -16,12 +21,7 @@ I am a second-year **Computer Science** student from Ho Chi Minh University of T
 - Develop cutting-edge web applications and neural network models.
 - Apply theoretical knowledge to solve real-world problems.
 
-## Skills and Tools
 
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
-![React](https://img.shields.io/badge/React-16.13.1-blue)
-![Node.js](https://img.shields.io/badge/Node.js-12.18.3-green)
-![Python](https://img.shields.io/badge/Python-3.8-blue)
 
 ## Funny stats
 <p align="center">
