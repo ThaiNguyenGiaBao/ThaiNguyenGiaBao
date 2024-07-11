@@ -3,12 +3,12 @@
 I am a second-year **Computer Science** student from Ho Chi Minh University of Technology (HCMUT)
 
 ## About Me
-- **Aspiring Computer Scientist**: Eager to learn everything in the vast field of computer science!
-- **Web Application and Neural Network Developer**: Passionate about building innovative web applications and exploring the depths of neural networks.
-- **Strengths**:
+- Eager to learn everything in the vast field of computer science!
+- Passionate about building innovative web applications and exploring the depths of neural networks.
+- Strengths:
   - Have a solid foundation in theoretical knowledge in Computer Science
   - Proficient in calculus (especially in integral) and physics
-- **Fun Fact**: I deeply appreciate drawing and enjoy delving into low-level programming.
+- Fun Fact: I deeply appreciate drawing and enjoy delving into low-level programming.
   
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
 ![React](https://img.shields.io/badge/React-16.13.1-blue)
