@@ -1,4 +1,4 @@
-### Hi there 👋, I'm TNGiaBao
+### Hi there 👋, I'm Thai Nguyen Gia Bao
 
 I am a second-year **Computer Science** student from Ho Chi Minh University of Technology (HCMUT)
 
