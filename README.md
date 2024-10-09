@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Thai Nguyen Gia Bao
 
-I am a second-year **Computer Science** student from Ho Chi Minh University of Technology (HCMUT)
+I am a third-year **Computer Science** student from Ho Chi Minh University of Technology (HCMUT)
 
 ## About Me
 - Eager to learn everything in the vast field of computer science!
