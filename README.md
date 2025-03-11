@@ -4,11 +4,10 @@ I am a third-year **Computer Science** student from Ho Chi Minh University of Te
 
 ## About Me
 - Eager to learn everything in the vast field of computer science!
-- Passionate about building innovative Web applications and exploring Computer vision.
+- Passionate about building innovative Web applications and exploring Deep learning.
 - Strengths:
   - Have a solid foundation in theoretical knowledge in Computer Science
   - Proficient in calculus (especially in integral) and physics
-- Fun Fact: I deeply appreciate art and enjoy delving into low-level programming.
   
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
 ![React](https://img.shields.io/badge/React-16.13.1-blue)
